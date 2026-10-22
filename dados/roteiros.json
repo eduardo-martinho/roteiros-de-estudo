@@ -1,0 +1,130 @@
+[
+  {
+    "id": "fracoes",
+    "titulo": "Entendendo as frações",
+    "tema": "Frações",
+    "disciplina": "Matemática",
+    "ano": 6,
+    "tempoMinutos": 30,
+    "explicacao": "Uma fração mostra uma parte de um todo. O número de baixo, o denominador, diz em quantas partes iguais o todo foi dividido. O número de cima, o numerador, diz quantas dessas partes estamos pegando. Em 3/4 de uma pizza, a pizza foi cortada em 4 pedaços iguais e pegamos 3.",
+    "questoes": [
+      { "pergunta": "Na fração 2/5, qual é o denominador?", "resposta": "5. Ele mostra que o todo foi dividido em 5 partes iguais." },
+      { "pergunta": "Uma barra de chocolate tem 8 pedaços e você comeu 3. Que fração da barra você comeu?", "resposta": "3/8." },
+      { "pergunta": "Qual é maior: 1/2 ou 1/4?", "resposta": "1/2. Quanto mais partes o todo tem, menor fica cada parte." }
+    ],
+    "professorId": 1,
+    "artigoWikipedia": "Fração"
+  },
+  {
+    "id": "teorema-de-pitagoras",
+    "titulo": "O teorema de Pitágoras",
+    "tema": "Teorema de Pitágoras",
+    "disciplina": "Matemática",
+    "ano": 8,
+    "tempoMinutos": 40,
+    "explicacao": "O triângulo retângulo é o que tem um ângulo de 90 graus. O lado maior, que fica na frente desse ângulo, se chama hipotenusa, e os outros dois lados se chamam catetos. O teorema diz que o quadrado da hipotenusa é igual à soma dos quadrados dos catetos: a² = b² + c².",
+    "questoes": [
+      { "pergunta": "Os catetos de um triângulo retângulo medem 3 cm e 4 cm. Quanto mede a hipotenusa?", "resposta": "5 cm, porque 3² + 4² = 9 + 16 = 25, e a raiz quadrada de 25 é 5." },
+      { "pergunta": "Como se chama o maior lado do triângulo retângulo?", "resposta": "Hipotenusa." },
+      { "pergunta": "A hipotenusa mede 10 cm e um cateto mede 6 cm. Quanto mede o outro cateto?", "resposta": "8 cm, porque 10² - 6² = 100 - 36 = 64, e a raiz quadrada de 64 é 8." }
+    ],
+    "professorId": 1,
+    "artigoWikipedia": "Teorema de Pitágoras"
+  },
+  {
+    "id": "substantivo",
+    "titulo": "O que é substantivo",
+    "tema": "Substantivo",
+    "disciplina": "Português",
+    "ano": 7,
+    "tempoMinutos": 25,
+    "explicacao": "Substantivo é a palavra que dá nome às coisas: pessoas, lugares, animais, objetos e sentimentos. Ele é próprio quando nomeia algo específico e começa com letra maiúscula, como Brasil e Maria. Ele é comum quando nomeia qualquer ser da mesma espécie, como país e menina.",
+    "questoes": [
+      { "pergunta": "Na frase \"O cachorro correu no parque\", quais palavras são substantivos?", "resposta": "Cachorro e parque." },
+      { "pergunta": "A palavra \"Curitiba\" é substantivo próprio ou comum?", "resposta": "Próprio, porque é o nome de uma cidade específica." },
+      { "pergunta": "A palavra \"alegria\" é um substantivo?", "resposta": "Sim. Ela dá nome a um sentimento." }
+    ],
+    "professorId": 2,
+    "artigoWikipedia": "Substantivo"
+  },
+  {
+    "id": "figuras-de-linguagem",
+    "titulo": "Figuras de linguagem",
+    "tema": "Comparação, metáfora e hipérbole",
+    "disciplina": "Português",
+    "ano": 9,
+    "tempoMinutos": 35,
+    "explicacao": "Figuras de linguagem são jeitos de usar as palavras fora do sentido comum para deixar o texto mais expressivo. Na comparação, usamos a palavra \"como\" para aproximar duas coisas. Na metáfora, a comparação aparece sem o \"como\". Na hipérbole, exageramos de propósito.",
+    "questoes": [
+      { "pergunta": "\"Seus olhos são duas estrelas.\" Qual é a figura de linguagem?", "resposta": "Metáfora." },
+      { "pergunta": "\"Já te falei isso um milhão de vezes.\" Qual é a figura de linguagem?", "resposta": "Hipérbole, porque é um exagero." },
+      { "pergunta": "\"Ele é forte como um touro.\" Qual é a figura de linguagem?", "resposta": "Comparação, porque usa a palavra \"como\"." }
+    ],
+    "professorId": 2,
+    "artigoWikipedia": "Figura de linguagem"
+  },
+  {
+    "id": "ciclo-da-agua",
+    "titulo": "O ciclo da água",
+    "tema": "Ciclo da água",
+    "disciplina": "Ciências",
+    "ano": 6,
+    "tempoMinutos": 30,
+    "explicacao": "A água da natureza está sempre mudando de lugar e de estado. O calor do Sol faz a água dos rios e dos mares evaporar. O vapor sobe, esfria e forma as nuvens, o que se chama condensação. Quando as gotas ficam pesadas, caem como chuva, e a água volta para os rios, o mar e o solo.",
+    "questoes": [
+      { "pergunta": "Como se chama a passagem da água líquida para vapor?", "resposta": "Evaporação." },
+      { "pergunta": "Como as nuvens se formam?", "resposta": "O vapor de água sobe, esfria e se junta em gotinhas." },
+      { "pergunta": "O que faz a água dos rios e mares evaporar?", "resposta": "O calor do Sol." }
+    ],
+    "professorId": 3,
+    "artigoWikipedia": "Ciclo hidrológico"
+  },
+  {
+    "id": "fotossintese",
+    "titulo": "Como as plantas fazem o próprio alimento",
+    "tema": "Fotossíntese",
+    "disciplina": "Ciências",
+    "ano": 7,
+    "tempoMinutos": 30,
+    "explicacao": "Fotossíntese é o jeito que as plantas fabricam o próprio alimento. Elas usam a luz do Sol, a água que tiram do solo e o gás carbônico do ar para produzir glicose, que é o alimento delas. Nesse processo, as plantas soltam oxigênio no ar.",
+    "questoes": [
+      { "pergunta": "Que gás as plantas soltam no ar durante a fotossíntese?", "resposta": "Oxigênio." },
+      { "pergunta": "Quais são os três ingredientes da fotossíntese?", "resposta": "Luz do Sol, água e gás carbônico." },
+      { "pergunta": "Qual parte da planta faz a maior parte da fotossíntese?", "resposta": "As folhas, onde fica a clorofila, que dá a cor verde." }
+    ],
+    "professorId": 3,
+    "artigoWikipedia": "Fotossíntese"
+  },
+  {
+    "id": "independencia-do-brasil",
+    "titulo": "A Independência do Brasil",
+    "tema": "Independência do Brasil",
+    "disciplina": "História",
+    "ano": 8,
+    "tempoMinutos": 35,
+    "explicacao": "Até 1822, o Brasil era governado por Portugal. Depois que a família real voltou para Lisboa, as cortes portuguesas quiseram diminuir a liberdade do Brasil. Dom Pedro, que governava aqui como príncipe regente, decidiu ficar e, em 7 de setembro de 1822, declarou a independência. Ele se tornou o primeiro imperador do Brasil, Dom Pedro I.",
+    "questoes": [
+      { "pergunta": "Em que data foi declarada a independência do Brasil?", "resposta": "7 de setembro de 1822." },
+      { "pergunta": "Quem declarou a independência?", "resposta": "Dom Pedro, que depois se tornou o imperador Dom Pedro I." },
+      { "pergunta": "Antes de 1822, o Brasil era governado por qual país?", "resposta": "Portugal." }
+    ],
+    "professorId": 4,
+    "artigoWikipedia": "Independência do Brasil"
+  },
+  {
+    "id": "proclamacao-da-republica",
+    "titulo": "A Proclamação da República",
+    "tema": "Proclamação da República",
+    "disciplina": "História",
+    "ano": 9,
+    "tempoMinutos": 35,
+    "explicacao": "Em 15 de novembro de 1889, militares liderados pelo marechal Deodoro da Fonseca tiraram do poder o imperador Dom Pedro II. O Brasil deixou de ser uma monarquia e passou a ser uma república. Na república, o chefe do país é um presidente escolhido para um mandato, e não um rei ou imperador que herda o cargo. Deodoro foi o primeiro presidente.",
+    "questoes": [
+      { "pergunta": "Em que data a República foi proclamada no Brasil?", "resposta": "15 de novembro de 1889." },
+      { "pergunta": "Quem foi o primeiro presidente do Brasil?", "resposta": "O marechal Deodoro da Fonseca." },
+      { "pergunta": "Qual é a diferença entre monarquia e república?", "resposta": "Na monarquia, o chefe é um rei ou imperador que herda o cargo. Na república, é um presidente escolhido para um mandato." }
+    ],
+    "professorId": 4,
+    "artigoWikipedia": "Proclamação da República do Brasil"
+  }
+]

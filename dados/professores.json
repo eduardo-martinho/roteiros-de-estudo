@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Paula Ferreira",
+    "disciplina": "Matemática",
+    "escola": "Escola Municipal Jardim das Flores"
+  },
+  {
+    "id": 2,
+    "nome": "Carlos Eduardo Souza",
+    "disciplina": "Português",
+    "escola": "Escola Municipal Vila Nova"
+  },
+  {
+    "id": 3,
+    "nome": "Mariana Lopes",
+    "disciplina": "Ciências",
+    "escola": "Escola Municipal Parque das Árvores"
+  },
+  {
+    "id": 4,
+    "nome": "Roberto Almeida",
+    "disciplina": "História",
+    "escola": "Escola Municipal Santa Rita"
+  }
+]

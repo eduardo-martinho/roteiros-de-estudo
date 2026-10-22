@@ -2,9 +2,11 @@
   "name": "roteiros-de-estudo",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
-    "build": "next build"
+    "build": "next build",
+    "test": "node --test"
   },
   "dependencies": {
     "next": "16.4.2",
