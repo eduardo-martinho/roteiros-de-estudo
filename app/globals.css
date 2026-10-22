@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #222222;
+  background-color: #ffffff;
+}
+
+a {
+  color: #1a5fb4;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 12px 20px;
+  border-bottom: 2px solid #222222;
+}
+
+.cabecalho-titulo {
+  font-size: 20px;
+  font-weight: bold;
+  color: #222222;
+  text-decoration: none;
+}
+
+.cabecalho nav a {
+  margin-left: 16px;
+}
+
+.conteudo {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 16px 20px;
+}
+
+button {
+  font-size: 15px;
+  padding: 6px 14px;
+  border: 2px solid #222222;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #eeeeee;
+}

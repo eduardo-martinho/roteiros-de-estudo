@@ -1,8 +1,8 @@
 export default function Inicio() {
   return (
-    <main>
-      <h1>Roteiros de Estudo</h1>
+    <div>
+      <h1>Encontre seu roteiro</h1>
       <p>Site em construção.</p>
-    </main>
+    </div>
   );
 }
