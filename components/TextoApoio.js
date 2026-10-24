@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 
-// O texto só carrega quando o aluno clica, para não gastar a internet de quem não quer
 export default function TextoApoio({ artigo }) {
   const [estado, setEstado] = useState("inicio");
   const [texto, setTexto] = useState("");
@@ -19,7 +18,6 @@ export default function TextoApoio({ artigo }) {
       setTexto(dados.extract);
       setEstado("sucesso");
     } catch (erro) {
-      // Sem internet ou Wikipédia fora do ar: só este bloco mostra o erro
       setEstado("erro");
     }
   }
