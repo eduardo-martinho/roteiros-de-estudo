@@ -107,3 +107,9 @@ select {
 .resposta {
   color: #1d6b2f;
 }
+
+.texto-apoio {
+  margin-top: 24px;
+  padding: 4px 12px 12px;
+  border: 1px dashed #777777;
+}

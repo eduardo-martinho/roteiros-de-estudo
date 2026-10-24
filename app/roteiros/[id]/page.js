@@ -5,6 +5,7 @@ import professores from "../../../dados/professores.json";
 import { buscarRoteiro, buscarProfessor } from "../../../lib/roteiros";
 import AvisoIA from "../../../components/AvisoIA";
 import QuestaoFixacao from "../../../components/QuestaoFixacao";
+import TextoApoio from "../../../components/TextoApoio";
 
 export function generateStaticParams() {
   return roteiros.map((roteiro) => ({ id: roteiro.id }));
@@ -38,6 +39,8 @@ export default async function PaginaRoteiro({ params }) {
       {roteiro.questoes.map((questao, indice) => (
         <QuestaoFixacao key={indice} numero={indice + 1} pergunta={questao.pergunta} resposta={questao.resposta} />
       ))}
+
+      <TextoApoio artigo={roteiro.artigoWikipedia} />
     </div>
   );
 }
