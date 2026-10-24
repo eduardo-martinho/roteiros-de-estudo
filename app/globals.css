@@ -55,3 +55,39 @@ button {
 button:hover {
   background-color: #eeeeee;
 }
+
+.filtro label {
+  margin-right: 20px;
+}
+
+select {
+  font-size: 15px;
+  padding: 4px;
+}
+
+.tabela-caixa {
+  max-height: 400px;
+  overflow-y: auto;
+  border: 1px solid #222222;
+}
+
+.tabela {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tabela th,
+.tabela td {
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid #cccccc;
+}
+
+.tabela th {
+  background-color: #eeeeee;
+}
+
+.aviso {
+  padding: 10px;
+  border: 1px dashed #777777;
+}
