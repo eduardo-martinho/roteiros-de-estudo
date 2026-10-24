@@ -91,3 +91,19 @@ select {
   padding: 10px;
   border: 1px dashed #777777;
 }
+
+.aviso-ia {
+  padding: 10px;
+  border: 2px solid #222222;
+  background-color: #f2f2f2;
+}
+
+.questao {
+  padding: 8px 12px;
+  margin-bottom: 10px;
+  border: 1px solid #222222;
+}
+
+.resposta {
+  color: #1d6b2f;
+}
